@@ -1,0 +1,104 @@
+{
+    "Header": {
+
+        "title": "EXPRSL",
+        "paragraph": "Explore nearby houses,plots and rentals also sell land or houses."
+
+    },
+    "About": {
+        "paragraph": "Our Company is a leading company in realastate . our company main idea is to help users in exploring nearby houses, plots, rentals and lease. our company would be a medium between , the owners who are ready to sell or rent people who are in search of property or home.",
+        "Why": [
+            "Nominal rates ",
+            "Certified by government"
+        ],
+        "Why2": [
+            "Various offers to help customers ",
+            "Many years of experience "
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-user",
+            "name": "Exploring rentals",
+            "text": "Our company helps in exploring rentals in area selected by customers ."
+        },
+        {
+            "icon": "fa fa-user",
+            "name": "Buy permanent houses",
+            "text": "Our company helps in buying permanent houses with reasonable prices ."
+        },
+        {
+            "icon": "fa fa-user",
+            "name": "Buy property or land ",
+            "text": "Our company helps in buying property or land following all guidelines with more offers ."
+        },
+        {
+            "icon": "fa fa-user",
+            "name": "Sell property or land",
+            "text": "Our company would be a good medium between persons who are selling property or land and  whoever need them ."
+        }
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"This is best company with nominal rates which helpes people .\"",
+            "name": "Suhash"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"This company is good as it follows correct guidelines.\"",
+            "name": "Praveen"
+        },
+        
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\" It gives various schemes to help us in our financial crisis.\"",
+            "name": "Haribabu"
+        },
+       
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\" Good company which provides what we want in low prices with good quality.\"",
+            "name": "Karthik"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        }
+       
+    ],
+    "Contact": {
+        "address": "sricity , Chittoor , Ap ",
+        "phone": "+00 1515151515",
+        "Gmail": "exprsl@gmail.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Chat",
+            "text": "Real time chat between customers for price discussion, for registration and doubts clarification ."
+        },
+        {
+            "icon": "fa fa-search-plus",
+            "title": "Search",
+            "text": "You can search particular owner name or search by property type or search by type of purpose."
+        },
+        {
+            "icon": "fa fa-globe",
+            "title": "Map",
+            "text": "It shows visual presentation of houses and lands."
+        }
+    ]
+}

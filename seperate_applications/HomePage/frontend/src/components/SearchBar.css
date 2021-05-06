@@ -1,0 +1,41 @@
+.Search
+{
+    
+    
+    
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: rgb(108, 79, 238);
+    
+    
+}
+.center
+{
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+
+    color: rgb(108, 79, 238);
+    
+    
+    
+    
+}
+
+.button {
+    background-color: rgb(150, 130, 238); /* Green */
+    border:  rgb(150, 130, 238);
+    color: white;
+    padding: 13px 16px;
+    padding-right: 20px;
+    text-align: center;
+    text-decoration: rgb(108, 79, 238);
+    display: inline-block;
+    font-size: 16px;
+  }
+  

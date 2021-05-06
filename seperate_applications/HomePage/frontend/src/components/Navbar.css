@@ -1,0 +1,32 @@
+.NavbarColour
+{
+    
+    background:linear-gradient(to right,blue, indigo, violet) ;
+    color: white;
+
+    
+}
+.nav-logo
+{
+    color: white;
+    
+
+}
+.nav-menu
+{
+
+ display: grid;
+ grid-template-columns: repeat(5,auto);
+ grid-gap: 10px;
+ text-align: center;
+ width: 70vw;
+ justify-content: end;
+ margin-right:  2rem;
+ 
+
+}
+.nav-links{
+    color: white;
+    padding: auto;
+
+}
